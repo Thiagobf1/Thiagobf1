@@ -21,7 +21,7 @@
 
 ### Contacts 
 <div>
-<a href= "htttps://instagram.com/thiagob.f">
+<a href= "https://instagram.com/thiagob.f">
 <img src= "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a 
   
