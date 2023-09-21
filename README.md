@@ -18,3 +18,15 @@
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Thiagobf1&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   </a>
 </div>
+
+### Contacts 
+<div>
+<a href= "htttps://instagram.com/thiagob.f">
+<img src "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a 
+  
+<a href= "www.linkedin.com/in/thiago-feijó-257349205">
+<img src https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+</a 
+  
+</div>
