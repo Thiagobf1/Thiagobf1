@@ -27,6 +27,6 @@
   
 <a href= "www.linkedin.com/in/thiago-feijó-257349205">
 <img src= "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a 
+</a>  
   
 </div>
