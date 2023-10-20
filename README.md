@@ -28,10 +28,7 @@
 </a    
 </div>  
 <div>   
-
 ![Filipe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Thiagobf1&show_icons=true&theme=transparent)
 ![Filipe's GitHub Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thiagobf1&layout=compact&theme=transparent)
-<a href= "https://linkedin.com/in/thiago-feijó-257349205"> 
-<img src= "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> 
 </a
 </div>    
