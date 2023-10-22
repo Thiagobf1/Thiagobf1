@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning JavaScript.
-- 💬 Ask me about CSS, HTML and somthing about JavaScipt.
+- 💬 Ask me about CSS, HTML and something about JavaScipt.
 
 ### Best Tecnologies.
 
